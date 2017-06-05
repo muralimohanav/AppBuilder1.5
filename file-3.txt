@@ -1,3 +1,3 @@
-CONFLICT COMMIT 
+cONFLICT COMMIT
 
-File no - 1
+Fine No 2
